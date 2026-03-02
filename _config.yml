@@ -1,7 +1,9 @@
-theme: minima
-title: Weekly Seminar
-description: Notes and materials from our weekly seminar
-paginate: 10
-paginate_path: "/page:num/"
-plugins:
-  - jekyll-paginate
+_config.yml
+index.html
+_layouts/
+    default.html
+    post.html
+_posts/
+    2026-03-02-week-1.md
+assets/
+    style.css
