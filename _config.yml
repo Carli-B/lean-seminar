@@ -1,9 +1,4 @@
-_config.yml
-index.html
-_layouts/
-    default.html
-    post.html
-_posts/
-    2026-03-02-week-1.md
-assets/
-    style.css
+title: Weekly Seminar
+description: Notes and materials from our weekly seminar
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
