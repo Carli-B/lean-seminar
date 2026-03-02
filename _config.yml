@@ -5,3 +5,6 @@ permalink: /:year/:month/:day/:title/
 baseurl: "/lean-seminar"
 url: "https://Carli-B.github.io"
 highlighter: rouge
+
+kramdown:
+  input: GFM
