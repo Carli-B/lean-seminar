@@ -75,6 +75,15 @@ pre {
   border-radius: 6px;
 }
 
+th, td {
+  padding: 15px;
+  border: 1px solid black;
+}
+
+table {
+  border: 1px solid black;
+}
+
 code {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.95em;
