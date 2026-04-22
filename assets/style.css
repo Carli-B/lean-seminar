@@ -84,7 +84,7 @@ table {
   border: 1px solid black;
 }
 
-code {
+code, .code {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.95em;
 }
